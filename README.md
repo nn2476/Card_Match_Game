@@ -13,5 +13,5 @@ This is a complete browser-based card matching game.
 
 ## How to Run: 
 
-1. [Download](https://github.com/sagarchoudhary96/Memory-Game/archive/master.zip) or [Clone](https://github.com/sagarchoudhary96/Memory-Game.git) the Repository.
+1. [Download](https://github.com/sagarchoudhary96/Memory-Game/archive/master.zip) or [Clone](https://github.com/nn2476/Card_Match_Game.git) the Repository.
 2. Open `index.html` file to view the project in your browser.
